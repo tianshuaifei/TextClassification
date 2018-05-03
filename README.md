@@ -6,3 +6,4 @@
 * CNN
 * RNN
 * RCNN
+* Hierarchical Attention Network
